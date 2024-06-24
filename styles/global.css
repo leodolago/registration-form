@@ -16,6 +16,7 @@
 
   --color-surface-primary: #FFFFFF;
   --color-surface-secondary: #FEE7D6;
+  --color-surface-disabled: #E7E5E4;
 
   --color-stroke-default: #D6D3D1;
   --color-stroke-highlight: #F3541C;
@@ -34,4 +35,16 @@ h1, h2 {
 
 img {
   max-width: 100%;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-1 {
+  flex: 1;
+}
+
+.flex-2 {
+  flex: 2;
 }
