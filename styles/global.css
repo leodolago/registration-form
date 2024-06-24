@@ -21,6 +21,8 @@
   --color-stroke-default: #D6D3D1;
   --color-stroke-highlight: #F3541C;
   --color-stroke-error: #DC2626;
+
+  --color-semantic-error: #DC2626;
 }
 
 body {
